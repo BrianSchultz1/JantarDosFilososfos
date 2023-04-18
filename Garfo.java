@@ -6,6 +6,7 @@ public class Garfo {
     private Thread filosofo;
 
     public Garfo(int id) {
+        
 
         this.id = id;
 
